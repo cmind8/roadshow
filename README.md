@@ -54,6 +54,7 @@ Cleaning, doing every gradle tasks from scratch:
 
 `./gradlew clean`
 Kris
+'./gsdfdsfdsfsdf235234532'
 
 
 ### Coverage of unit test
