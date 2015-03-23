@@ -53,6 +53,7 @@ Kris-adddeed text
 Cleaning, doing every gradle tasks from scratch:
 
 `./gradlew clean`
+Kris
 
 
 ### Coverage of unit test
