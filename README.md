@@ -47,7 +47,7 @@ To enable manual build support on a Jenkins job, use the special `jenkinstest` t
 
 `./gradlew war jenkinstest`
 
-
+Kris Test 
 ### Cleaning
 
 Cleaning, doing every gradle tasks from scratch:
